@@ -1,0 +1,1 @@
+rename *.jsx *.tsx

@@ -1,0 +1,10 @@
+.logo {
+    width: 7% !important;
+    height: 5%;
+}
+.coinracer-header {
+    &__connect-wallet-btn {
+        border-radius: 25%;
+        border-color: rgb(130, 99, 225);
+    }
+}
